@@ -9,6 +9,4 @@ cambio en el master
 
 esto es para el stash
 
-otra vez cambios en vscode
-
 cambio en github
